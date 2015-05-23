@@ -1,0 +1,177 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.navbar-text > a{
+
+   color : inherit;
+   
+   text-decoration: none;
+
+
+
+}
+
+.no-margin{
+
+    margin: 0px;
+
+
+}
+
+.no-padding{
+
+
+    padding: 0px;
+
+
+}
+
+body{
+
+padding-bottom: 50px;
+
+
+}
+
+
+
+.fn{
+
+
+font-family: 'Crimson Text', serif;
+
+}
+p{
+font-family: 'Crimson Text', serif;
+
+}
+
+.navbar-default{
+    background-color: #2C3E50;
+	border-color : #FFFFFF;
+	
+	color: #FFFFFF;
+
+
+}
+.navbar-default .navbar-brand{
+
+   color: #FFFFFF;
+
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus{
+color: #18BC9C;
+background-color: transparent;
+
+}
+
+.navbar-default .navbar-nav > li > a{
+
+color: #FFFFFF;
+
+} 
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus{
+
+  color: #FFFFFF;
+background-color: #1A242F;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus{
+
+color: #18BC9C;
+background-color: transparent;
+
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus{
+
+  background-color:#1A242F;
+ color: #FFFFFF;
+}
+.btn-primary{
+  background-color:#2C3E50;
+  border-color:#2C3E50;
+  color: #FFFFFF;
+
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:active,
+.open .dropdown-toggle .btn-primary{
+
+   color: #FFFFFF;
+   background-color: #1E2A36;
+   border-color : #161F29;
+
+}
+
+
+.btn-success{
+  background-color:#18BC9C;
+  border-color:#18BC9C;
+  color: #FFFFFF;
+
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success:active,
+.open .dropdown-toggle .btn-success{
+
+   color: #FFFFFF;
+   background-color: #13987E;
+   border-color : #13987E;
+
+}
+
+.btn-danger{
+  background-color:#2C3E50;
+  border-color:#2C3E50;
+  color: #FFFFFF;
+
+}
+
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger:active,
+.btn-danger:active,
+.open .dropdown-toggle .btn-danger{
+
+   color: #FFFFFF;
+   background-color: #1E2A36;
+   border-color : #161F29;
+
+}
+
+a:focus, a:hover {
+     color:#2C3E50;
+   border-color : #161F29;
+   text-decoration: none;
+}
+
+.ww {
+   
+ width: 100%;
+    
+}
+.icon-padding{
+    
+    padding-right:10px;
+    
+}
+
+
+
